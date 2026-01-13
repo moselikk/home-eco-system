@@ -39,3 +39,4 @@
 有操作页面
 
 操作页面风格参考图
+https://dribbble.com/shots/26041365-Navexa-WMS-Warehouse-Management-Dashboard
